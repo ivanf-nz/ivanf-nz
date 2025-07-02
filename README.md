@@ -33,8 +33,8 @@ I built and tested the backend contracts and unit tests.
 
 ---
 
-### 📄 [career-public](https://github.com/ivanf-nz/career-public)  
-Includes a downloadable PDF version of my CV.
+### 📄 [CV](https://github.com/ivanf-nz/career-public/blob/main/Ivan%20Fateev%20CV.pdf)
+A downloadable PDF version of my CV.
 
 ---
 
