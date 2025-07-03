@@ -41,6 +41,14 @@ Includes a fully configured reverse proxy for easier access to internal services
 
 ---
 
+### 🛰️ [3D Spatial Mapping System](https://github.com/ivanf-nz/realtime-mesh-renderer)  
+A room-scanning setup using Arduino-controlled LiDAR and stepper motors.  
+Captures 3D point clouds for later mesh reconstruction.  
+Currently logs data to `.xyz` files.  
+Real-time rendering and mesh export features are in development.
+
+---
+
 ### 📄 [CV](https://github.com/ivanf-nz/career-public/blob/main/Ivan%20Fateev%20CV.pdf)  
 A downloadable PDF version of my CV.
 
