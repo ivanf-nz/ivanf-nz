@@ -15,6 +15,7 @@ I'm a Computer Systems Engineering student at the University of Auckland. I like
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
   <img src="https://img.shields.io/badge/Fusion%20360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
   <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
 ---
