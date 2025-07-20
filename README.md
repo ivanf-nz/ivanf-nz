@@ -19,7 +19,7 @@ I'm a Computer Systems Engineering student at the University of Auckland. I like
 </p>
 
 ---
-![Top Langs](https://github-readme-stats-taupe-five-70.vercel.app/api/top-langs/?username=ivanf-nz&layout=compact&hide=Swift,Rich%20Text%20Format,TypeScript)
+
 ## Projects
 
 ### 🖼️ [x2ascii](https://github.com/ivanf-nz/x2ascii)  
