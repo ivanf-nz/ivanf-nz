@@ -19,6 +19,9 @@ I'm a Computer Systems Engineering student at the University of Auckland. I like
 </p>
 
 ---
+![WakaTime Stats](https://github-readme-stats-taupe-five-70.vercel.app/api/wakatime?username=ivanfnz)
+
+
 
 ## Projects
 
