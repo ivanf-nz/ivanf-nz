@@ -49,7 +49,7 @@ Includes a fully configured reverse proxy for easier access to internal services
 
 ---
 
-### 🛰️ [LiDAR Room Scanner](https://github.com/ivanf-nz/3d-ascii-renderer)  
+### 🛰️ [LiDAR Room Scanner](https://github.com/ivanf-nz/LiDAR-room-scanner)  
 A room-scanning setup using Arduino-controlled LiDAR and stepper motors.  
 Captures 3D point clouds for later mesh reconstruction.  
 Currently logs data to `.xyz` files.  
