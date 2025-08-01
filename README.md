@@ -29,7 +29,7 @@ I'm a Computer Systems Engineering student at the University of Auckland. I like
 
 ## Projects
 
-### 🖼️ [x2ascii](https://github.com/ivanf-nz/x2ascii)  
+### 🖼️ [3D ASCII Renderer](https://github.com/ivanf-nz/3d-ascii-render)  
 A Python program that renders 3D files into ASCII art.  
 Uses Python arguments to control the rendering.
 
@@ -49,7 +49,7 @@ Includes a fully configured reverse proxy for easier access to internal services
 
 ---
 
-### 🛰️ [3D Spatial Mapping System](https://github.com/ivanf-nz/realtime-mesh-renderer)  
+### 🛰️ [LiDAR Room Scanner](https://github.com/ivanf-nz/3d-ascii-renderer)  
 A room-scanning setup using Arduino-controlled LiDAR and stepper motors.  
 Captures 3D point clouds for later mesh reconstruction.  
 Currently logs data to `.xyz` files.  
