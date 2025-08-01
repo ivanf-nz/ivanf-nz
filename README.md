@@ -29,7 +29,7 @@ I'm a Computer Systems Engineering student at the University of Auckland. I like
 
 ## Projects
 
-### 🖼️ [3D ASCII Renderer](https://github.com/ivanf-nz/3d-ascii-render)  
+### 🖼️ [3D ASCII Renderer](https://github.com/ivanf-nz/3d-ascii-renderer)  
 A Python program that renders 3D files into ASCII art.  
 Uses Python arguments to control the rendering.
 
