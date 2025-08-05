@@ -1,4 +1,5 @@
-# Hey, I'm Ivan Fateev
+
+# Hello!
 
 I'm a Computer Systems Engineering student at the University of Auckland. I like building things that combine software and hardware.
 
@@ -8,24 +9,18 @@ I'm a Computer Systems Engineering student at the University of Auckland. I like
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
+  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
   <img src="https://img.shields.io/badge/Fusion%20360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
-
-
 </p>
 
 ---
 ![WakaTime Total Time](https://github-readme-stats-taupe-five-70.vercel.app/api/wakatime?username=ivanfnz&range=all_time&layout=compact&theme=dark&show_icons=true)
-
-
-
-
 
 ## Projects
 
@@ -35,10 +30,17 @@ Uses Python arguments to control the rendering.
 
 ---
 
-### 🪪 [Soul ID — Web3 Hackathon 2025](https://github.com/se-camus/2025-web3-hackathon)  
+### 🆔 [Soul ID — Web3 Hackathon 2025](https://github.com/se-camus/2025-web3-hackathon)  
 Built during NZ’s first Web3 hackathon. We took **1st place** and **$4000NZD** in the Fire Eyes Governance Challenge.  
 Soulbound Token voting system with MetaMask integration, powered by smart contracts.  
 I built and tested the backend contracts and unit tests.
+
+---
+
+### 🕹️ [Nostalgia Guesser — WDCC x SESA Hackathon 2025](https://github.com/HJColinKim/2025-WDCCxSESA-SoulID)  
+**3rd Place** at NZ’s largest tertiary Hackathon (WDCC x SESA) — August 2025  
+A co-op browser game built in 48 hours where two players team up to guess retro games using audio and pixelated images.  
+The site mimics the 90s internet with old-school UI, chaotic popups, retro sounds, and a chatbot. 
 
 ---
 
