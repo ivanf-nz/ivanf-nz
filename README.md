@@ -66,7 +66,7 @@ A downloadable PDF version of my CV.
 
 ## Interests
 
-Hardware Prototyping, Embedded Systems, 3D Modelling, Waterpolo and Underwater Hockey (Look it up!).
+PCB's, Embedded Systems, 3D Modelling, Waterpolo and Underwater Hockey (Look it up!).
 
 ---
 
