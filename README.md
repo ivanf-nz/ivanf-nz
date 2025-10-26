@@ -1,9 +1,4 @@
 
-# Hello!
-
-I'm a Computer Systems Engineering student at the University of Auckland. I like building things that combine software and hardware.
-
----
 
 ## ⚙️ Tech Stack
 
@@ -38,7 +33,7 @@ I built and tested the backend contracts and unit tests.
 ---
 
 ### 🕹️ [Nostalgia Guesser — WDCC x SESA Hackathon 2025](https://github.com/HJColinKim/2025-WDCCxSESA-SoulID)  
-**3rd Place** at NZ’s largest tertiary Hackathon (WDCC x SESA) — August 2025  
+**3rd Place** at NZ’s largest tertiary Hackathon (WDCC x SESA) August 2025  
 A co-op browser game built in 48 hours where two players team up to guess retro games using audio and pixelated images.  
 The site mimics the 90s internet with old-school UI, chaotic popups, retro sounds, and a chatbot. 
 
