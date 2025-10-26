@@ -15,6 +15,7 @@
 </p>
 
 ---
+## ⏰ WakaTime
 ![WakaTime Total Time](https://github-readme-stats-taupe-five-70.vercel.app/api/wakatime?username=ivanfnz&range=all_time&layout=compact&theme=dark&show_icons=true)
 
 ## Projects
@@ -53,16 +54,3 @@ Currently logs data to `.xyz` files.
 Real-time rendering and mesh export features are in development.
 
 ---
-
-### 📄 [CV](https://github.com/ivanf-nz/career-public/blob/main/Ivan%20Fateev%20CV.pdf)  
-A downloadable PDF version of my CV.
-
----
-
-## Interests
-
-PCB's, Embedded Systems, 3D Modelling, Waterpolo and Underwater Hockey (Look it up!).
-
----
-
-Thanks for stopping by.
