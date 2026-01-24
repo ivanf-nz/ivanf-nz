@@ -1,7 +1,3 @@
-
-
-## ⚙️ Tech Stack
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -14,40 +10,36 @@
   <img src="https://img.shields.io/badge/Fusion%20360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
 </p>
 
----
-## ⏰ WakaTime
 ![WakaTime Total Time](https://github-readme-stats-taupe-five-70.vercel.app/api/wakatime?username=ivanfnz&range=all_time&layout=compact&theme=dark&show_icons=true)
 
 ## Projects
 
-### 🖼️ [3D ASCII Renderer](https://github.com/ivanf-nz/3d-ascii-renderer)  
+###  [3D ASCII Renderer](https://github.com/ivanf-nz/3d-ascii-renderer)  
 A Python program that renders 3D files into ASCII art.  
-Uses Python arguments to control the rendering.
 
 ---
 
-### 🆔 [Soul ID — Web3 Hackathon 2025](https://github.com/se-camus/2025-web3-hackathon)  
+###  [Soul ID (Web3 Hackathon 2025)](https://github.com/se-camus/2025-web3-hackathon)  
 Built during NZ’s first Web3 hackathon. We took **1st place** and **$4000NZD** in the Fire Eyes Governance Challenge.  
 Soulbound Token voting system with MetaMask integration, powered by smart contracts.  
 I built and tested the backend contracts and unit tests.
 
 ---
 
-### 🕹️ [Nostalgia Guesser — WDCC x SESA Hackathon 2025](https://github.com/HJColinKim/2025-WDCCxSESA-SoulID)  
+### [Nostalgia Guesser (WDCC x SESA Hackathon 2025)](https://github.com/HJColinKim/2025-WDCCxSESA-SoulID)  
 **3rd Place** at NZ’s largest tertiary Hackathon (WDCC x SESA) August 2025  
 A co-op browser game built in 48 hours where two players team up to guess retro games using audio and pixelated images.  
 The site mimics the 90s internet with old-school UI, chaotic popups, retro sounds, and a chatbot. 
 
 ---
 
-### 🏠 [Homelab](https://github.com/ivanf-nz/homelab)  
+### [Homelab](https://github.com/ivanf-nz/homelab)  
 A self-hosted homelab powered by **Proxmox** and **pfSense**.  
 Features container and VM-based virtualisation.  
-Includes a fully configured reverse proxy for easier access to internal services.
 
 ---
 
-### 🛰️ [LiDAR Room Scanner](https://github.com/ivanf-nz/LiDAR-room-scanner)  
+### [LiDAR Room Scanner](https://github.com/ivanf-nz/LiDAR-room-scanner)  
 A room-scanning setup using Arduino-controlled LiDAR and stepper motors.  
 Captures 3D point clouds for later mesh reconstruction.  
 Currently logs data to `.xyz` files.  
