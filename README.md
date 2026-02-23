@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Fusion%20360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
 </p>
 
-![WakaTime Total Time](https://github-readme-stats-taupe-five-70.vercel.app/api/wakatime?username=ivanfnz&range=all_time&layout=compact&theme=dark&show_icons=true)
-
 ## Projects
 
 ###  [3D ASCII Renderer](https://github.com/ivanf-nz/3d-ascii-renderer)  
